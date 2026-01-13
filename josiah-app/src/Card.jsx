@@ -1,3 +1,4 @@
+/*
 import profilePic from './assets/IMG_0649.JPG';
 
 
@@ -12,3 +13,4 @@ function Card (){
 }
 
 export default Card
+*/
