@@ -1,4 +1,4 @@
-
+/* ----------Using Props---------
 function Student(props){
     return(
         <div className="student">
@@ -15,3 +15,4 @@ Student.defaultProps = {
     isStudent: false,
 }
 export default Student
+*/
